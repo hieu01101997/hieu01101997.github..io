@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#id {
+  width: 280px;
+  text-align: center;
+}
+.year {
+  width: 280px;
+  height: 20px;
+  background-color: #ef5321;
+  color: #ffffff;
+  text-align: center;
+}
+.time {
+  width: 280px;
+  height: 90px;
+  background-color: #fe6d40;
+  padding: 20px 0px 30px 0px;
+  text-align: center;
+  color: #ffffff;
+}
+.time .day {
+  font-weight: 500;
+  font-size: 30px;
+}
+a {
+  text-decoration: none;
+  font-weight: bolder;
+  color: #878787;
+  display: block;
+  font-size: 20px;
+  width: 280px;
+  margin: 12px 12px -15px 12px;
+}
+.teacher {
+  width: 275px;
+  font-size: 15px;
+  color: grey;
+  font-weight: 700px;
+
+  margin-top: 20px;
+  margin-left: 12px;
+}
+.aaa {
+  width: 275px;
+  font-size: 15px;
+  color: grey;
+  font-weight: 700px;
+  margin-top: 15px;
+  margin-left: 12px;
+}
+.bbb {
+  width: 275px;
+  font-size: 15px;
+  color: grey;
+  font-weight: 700px;
+  margin-top: 7px;
+
+  margin-left: 12px;
+}
+.ccc {
+  width: 275px;
+  font-size: 15px;
+  color: grey;
+  font-weight: 700px;
+  margin-top: 7px;
+
+  margin-left: 12px;
+}
+hr {
+  width: 280px;
+  margin: 10px 0px;
+}
+button {
+  color: mediumblue;
+  border: none;
+  background-color: white;
+  margin-left: 12px;
+  font-size: 15px;
+}
