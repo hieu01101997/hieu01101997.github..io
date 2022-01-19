@@ -35,12 +35,12 @@ li {
 .fas {
   float: right;
   padding-top: 10px;
-  display: none;
+  display: none; margin-right: 8px;
 }
 
 .mainnav .sub-menu {
   position: absolute;
-  left: 200px;
+  left: 170px;
   top: 0;
   /* margin-top: -30px; */
   opacity: 0;
@@ -62,7 +62,7 @@ a:hover .fas {
 }
 .list-item {
   position: absolute;
-  left: 200px;
+  left: 170px;
   top: 0;
   opacity: 0;
   visibility: hidden;
@@ -74,4 +74,4 @@ a:hover .fas {
   visibility: visible;
 
 }
-.list-item a {background-color: #fff;}
+.list-item a {background-color: #fff;}  
